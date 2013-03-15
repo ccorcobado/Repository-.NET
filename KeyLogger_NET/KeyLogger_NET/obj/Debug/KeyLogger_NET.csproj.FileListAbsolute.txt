@@ -1,0 +1,16 @@
+E:\Proyectos\KeyLogger_NET\KeyLogger_NET\KeyLogger_NET\bin\Debug\KeyLogger_NET.exe
+E:\Proyectos\KeyLogger_NET\KeyLogger_NET\KeyLogger_NET\bin\Debug\KeyLogger_NET.pdb
+E:\Proyectos\KeyLogger_NET\KeyLogger_NET\KeyLogger_NET\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyectos\KeyLogger_NET\KeyLogger_NET\KeyLogger_NET\obj\Debug\KeyLogger_NET.Properties.Resources.resources
+E:\Proyectos\KeyLogger_NET\KeyLogger_NET\KeyLogger_NET\obj\Debug\KeyLogger_NET.csproj.GenerateResource.Cache
+E:\Proyectos\KeyLogger_NET\KeyLogger_NET\KeyLogger_NET\obj\Debug\KeyLogger_NET.exe
+E:\Proyectos\KeyLogger_NET\KeyLogger_NET\KeyLogger_NET\obj\Debug\KeyLogger_NET.pdb
+C:\Users\abaco90\Desktop\KeyLogger_NET\KeyLogger_NET\KeyLogger_NET\obj\Debug\KeyLogger_NET.exe
+C:\Users\abaco90\Desktop\KeyLogger_NET\KeyLogger_NET\KeyLogger_NET\obj\Debug\KeyLogger_NET.pdb
+C:\Users\abaco90\Documents\GitHub\Repository-.NET\KeyLogger_NET\KeyLogger_NET\obj\Debug\KeyLogger_NET.exe
+C:\Users\abaco90\Documents\GitHub\Repository-.NET\KeyLogger_NET\KeyLogger_NET\obj\Debug\KeyLogger_NET.pdb
+C:\Users\abaco90\Documents\GitHub\Repository-.NET\KeyLogger_NET\KeyLogger_NET\bin\Debug\KeyLogger_NET.exe
+C:\Users\abaco90\Documents\GitHub\Repository-.NET\KeyLogger_NET\KeyLogger_NET\bin\Debug\KeyLogger_NET.pdb
+C:\Users\abaco90\Documents\GitHub\Repository-.NET\KeyLogger_NET\KeyLogger_NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\abaco90\Documents\GitHub\Repository-.NET\KeyLogger_NET\KeyLogger_NET\obj\Debug\KeyLogger_NET.Properties.Resources.resources
+C:\Users\abaco90\Documents\GitHub\Repository-.NET\KeyLogger_NET\KeyLogger_NET\obj\Debug\KeyLogger_NET.csproj.GenerateResource.Cache
